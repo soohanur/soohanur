@@ -54,15 +54,12 @@
 
 ### Philosophy
 
-> "Automate the boring, build the beautiful." — I build tools that solve real business problems, work directly with clients to ship what actually matters, and focus on results over process.
+> "Automate the boring, build the beautiful." - I build tools that solve real business problems, work directly with clients to ship what actually matters, and focus on results over process.
 
 <details>
 <summary>Random Facts</summary>
 
-- Named his real estate platform after the Bengali word for "address" (ঠিকানা)
-- Runs automation scrapers 24/7 on Hostinger VPS
-- Builds in Bangladesh, ships products used in the Netherlands
+- Gym enthusiast (when not coding)
 - Co-founded a web & automation agency before graduating
-- Blockchain Olympiad finalist in the AI category
 
 </details>
