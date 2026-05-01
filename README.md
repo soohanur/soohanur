@@ -40,8 +40,9 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Md._Sohanur_Rahman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soohanur)
-[![Email](https://img.shields.io/badge/-contact.soohanur@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.soohanur@gmail.com)
+[![Twitter](https://img.shields.io/badge/-@soohanur-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/soohanur)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soohanur)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.soohanur@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/soohanur)
 
 ---
