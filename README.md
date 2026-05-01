@@ -20,10 +20,10 @@
 ## Current Projects
 
 - 🗂️ **[OnspaceCRM](https://github.com/soohanur/onspace-crm)** - Internal CRM for Onspace — client pipeline, project tracking, and team management
-- 🎬 **[UGC Content Automation](https://github.com/soohanur/ugc-content-automation)** - User-generated content pipeline — collect, process, and distribute UGC at scale
-- 🔧 **[Nicky Tools](https://github.com/soohanur/nicky-tools)** - Real estate tools platform — Funda scraper, company intelligence, and more under one roof
+- 🔧 **[Nicky Tools](https://github.com/soohanur/nicky-tools)** - Real estate automation tools platform
 - 🏠 **[Funda Scraper](https://github.com/soohanur/funda-scraper)** - Automated property data pipeline for the Netherlands market with Google Sheets integration
 - 🏢 **[Company Info Automation](https://github.com/soohanur/company-info-automation)** - Real estate company intelligence scraper — automated business data extraction
+- 🎬 **[UGC Content Automation](https://github.com/soohanur/ugc-content-automation)** - User-generated content pipeline — collect, process, and distribute UGC at scale
 - 🗺️ **[ThikanaDB](https://github.com/soohanur/thikanabd)** - Bangladeshi real estate marketplace — buy, rent, list, and book properties with agent support
 - 📊 **[Survey](https://github.com/mahaamudul/survey)** - Survey platform where users earn token rewards for completing surveys
 
